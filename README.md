@@ -33,3 +33,17 @@ To detect fraudulent transactions and protect users from financial losses.
 - User login data
 - Device information
 - Location tracking
+
+
+# Agent Type
+
+The Fraud Detection System is a Learning Agent because it continuously learns from transaction patterns and improves its fraud detection capability.
+
+## Features
+- Real-time monitoring
+- Risk assessment
+- Pattern recognition
+- Machine learning models
+
+## Conclusion
+The system enhances banking security by detecting and preventing fraudulent transactions efficiently.
